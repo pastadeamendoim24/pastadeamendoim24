@@ -1,16 +1,15 @@
-## Hi there 👋
+## Estudante Alura
 
-<!--
-**pastadeamendoim24/pastadeamendoim24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- ☕ Estou estudando na [Alura](https://www.alura.com.br)
+- 📚 Estou me desenvolvendo no _JavaScript_
+- 💗 Ultilizo esse espaço para minha _organização e compartilhamento_ dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Você pode entrar em contato comigo 📫
+
+00001111277497sp@al.educacao.sp.gov.br
+
+
+
+![](https://media.giphy.com/media/ZV0rz1ARUleBq/giphy.gif?cid=790b7611kwrtr5zain2cduti49d7iqijw4u7trrw8lnxmv0a&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![](https://media.giphy.com/media/ihTJrdqwg3RFM9DN75/giphy.gif?cid=790b7611kwrtr5zain2cduti49d7iqijw4u7trrw8lnxmv0a&ep=v1_gifs_search&rid=giphy.gif&ct=g)
